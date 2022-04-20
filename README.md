@@ -2,7 +2,7 @@ This is my first Web3.0 application with React.js
 
 Tools used:
 1. Metaverse
-2. Faucet
+2. Faucets
 3. Thirdweb
 4. Opensea
 5. React
