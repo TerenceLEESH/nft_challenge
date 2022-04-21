@@ -1,4 +1,4 @@
-This is my first Web3.0 application with React.js
+Web3.0 application with React.js
 
 Tools used:
 1. Metaverse
